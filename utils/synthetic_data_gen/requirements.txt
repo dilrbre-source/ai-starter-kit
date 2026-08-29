@@ -4,7 +4,7 @@ langchain-experimental==0.4.0
 langchain-huggingface==1.0.0
 pydantic==2.12.3
 pydantic_core==2.41.4
-python-dotenv == 1.2.1
+python-dotenv == 1.2.2
 huggingface-hub==0.36.0
 sentence-transformers==5.1.2
 instructorembedding==1.0.1
