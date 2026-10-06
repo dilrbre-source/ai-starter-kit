@@ -28,7 +28,7 @@ pydantic_core==2.41.4
 python-dotenv==1.2.1
 ruff==0.14.2
 schedule==1.2.2
-sentence-transformers==5.1.2
+sentence-transformers==5.6.0
 streamlit-extras==0.6.0
 streamlit==1.51.0
 weave==0.52.8

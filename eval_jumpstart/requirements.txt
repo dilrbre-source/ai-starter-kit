@@ -1,4 +1,4 @@
-sentence-transformers==5.1.2
+sentence-transformers==5.6.0
 huggingface-hub==0.36.0
 instructorembedding==1.0.1
 langchain-chroma==1.0.0
