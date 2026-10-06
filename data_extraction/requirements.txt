@@ -101,7 +101,7 @@ rdflib==7.0.0
 ruff==0.6.9
 scikit-learn==1.4.0 
 scipy==1.11.3
-sentence_transformers==3.3.1 
+sentence_transformers==5.6.0 
 sentencepiece==0.1.99 
 simplejson==3.19.1
 six==1.16.0
