@@ -25,7 +25,7 @@ torch==2.9.0
 # Machine Learning and NLP
 scikit-learn==1.7.2
 transformers==4.57.1
-sentence-transformers==5.1.2
+sentence-transformers==5.6.0
 huggingface-hub==0.36.0
 instructorembedding==1.0.1
 datasets==4.3.0
