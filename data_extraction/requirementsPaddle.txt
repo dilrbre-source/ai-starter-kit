@@ -121,7 +121,7 @@ stack-data==0.6.3
 tenacity==8.2.3
 termcolor==2.4.0
 tifffile==2023.12.9
-tornado==6.4
+tornado==6.5.9
 tqdm==4.66.1
 traitlets==5.14.1
 tzdata==2023.4
