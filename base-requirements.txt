@@ -28,7 +28,7 @@ transformers==4.57.1
 sentence-transformers==5.1.2
 huggingface-hub==0.36.0
 instructorembedding==1.0.1
-datasets==4.3.0
+datasets==5.0.1
 evaluate==0.4.6
 accelerate==1.11.0
 peft==0.17.1
